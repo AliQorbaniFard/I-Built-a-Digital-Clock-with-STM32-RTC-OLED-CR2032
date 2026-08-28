@@ -238,7 +238,7 @@ This project is also demonstrated on **Sly Fox Electronics**, including:
 * OLED display
 * CR2032 / VBAT backup operation
 
-📺 **YouTube:** *[UC24fcTqgswaZkPQFimSFBrg]*
+📺 **YouTube:** *[https://youtube.com/@slyfoxelectronics?si=dY_9l4U63Laga2K8]*
 
 ---
 
