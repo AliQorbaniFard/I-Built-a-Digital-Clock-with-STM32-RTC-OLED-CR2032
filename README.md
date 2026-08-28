@@ -199,9 +199,6 @@ STM32-Digital-Clock/
 ├── STM32CubeMX/
 │   └── *.ioc
 │
-├── images/
-│   └── clock.jpg
-│
 ├── README.md
 └── ...
 ```
@@ -209,12 +206,6 @@ STM32-Digital-Clock/
 ---
 
 ## 🚀 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/STM32-Digital-Clock.git
-```
 
 ### 2. Open the project
 
@@ -247,7 +238,7 @@ This project is also demonstrated on **Sly Fox Electronics**, including:
 * OLED display
 * CR2032 / VBAT backup operation
 
-📺 **YouTube:** *[Add your video link here]*
+📺 **YouTube:** *[UC24fcTqgswaZkPQFimSFBrg]*
 
 ---
 
