@@ -2,7 +2,8 @@
 
 > **A tiny digital clock built around the STM32F103C8T6 Blue Pill, using the internal RTC and a CR2032 battery for timekeeping backup.**
 
-![STM32 Digital Clock](images/clock.jpg)
+<img width="1672" height="941" alt="ChatGPT Image Aug 28, 2026, 12_48_47 PM" src="https://github.com/user-attachments/assets/63fe00b3-d849-4f4b-8566-765f42e1ed29" />
+
 
 ---
 
